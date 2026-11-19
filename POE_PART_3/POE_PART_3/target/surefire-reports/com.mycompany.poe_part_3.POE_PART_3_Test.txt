@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.poe_part_3.POE_PART_3_Test
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.720 s -- in com.mycompany.poe_part_3.POE_PART_3_Test

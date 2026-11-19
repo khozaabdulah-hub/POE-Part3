@@ -1,0 +1,672 @@
+[
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "7022121031",
+        "messageHash": "E60D4E842FD4B0ED",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "3113269915",
+        "messageHash": "2C32D112429DC13E",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "2642915790",
+        "messageHash": "018B271C4487DCB9",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "8044423588",
+        "messageHash": "1F579C371B93015B",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "9161202322",
+        "messageHash": "1B1568B0B09D942E",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "8483282406",
+        "messageHash": "1265C696FA44C2E9",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "4821305145",
+        "messageHash": "19FEDD72D19CEA17",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "4828510569",
+        "messageHash": "345F985228B2F93E",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "5936161208",
+        "messageHash": "A97ED3BBD7695FB6",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "7916552169",
+        "messageHash": "8683807F705D9C50",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "7278122435",
+        "messageHash": "DDC2EF865439AA0C",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "4864672524",
+        "messageHash": "7C55158638DE8C50",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "3592063251",
+        "messageHash": "8691659843687218",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "3473267099",
+        "messageHash": "80BB2501059E484B",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "9586722455",
+        "messageHash": "A80991B7713842D1",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "8917885189",
+        "messageHash": "D20CFCF49E5E5C90",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "5204368486",
+        "messageHash": "BB5E48CD548F797A",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "2279829684",
+        "messageHash": "EEAE8DB00721CDBC",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "9657185702",
+        "messageHash": "9ADDA1B2051282AA",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "4725813514",
+        "messageHash": "65E5E79DB6E5B6C0",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "6543598852",
+        "messageHash": "7E9F5CAAD8F7016D",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "4804861429",
+        "messageHash": "EB13A9C0C7C022FF",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "5659814810",
+        "messageHash": "024A1CD1009B797C",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "4985333422",
+        "messageHash": "8B7DDEBD20CAD5CF",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "3439925813",
+        "messageHash": "ADEB4B272FB28427",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "1673774610",
+        "messageHash": "AC9F2E90050ACCFA",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "2911834858",
+        "messageHash": "98EEF0B8FAED8293",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "3287291031",
+        "messageHash": "D16AA21268834D56",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "9811216991",
+        "messageHash": "A1B22D6CB93EB3BC",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "3668825668",
+        "messageHash": "EF2EFDDB90E1C2FD",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "6709818080",
+        "messageHash": "ED78962F5BE9DFC7",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "3321161361",
+        "messageHash": "DA1C54DC9B16FE89",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "5422728645",
+        "messageHash": "52255F6506660A42",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "6782307123",
+        "messageHash": "98CA98801CF074EC",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "3694078014",
+        "messageHash": "AA87696904F8C2E9",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "4050136107",
+        "messageHash": "CB3CE3756937EACF",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "1837369471",
+        "messageHash": "79C89606B689B8BC",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "2290133108",
+        "messageHash": "B71EFA283CB7814A",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "6790709138",
+        "messageHash": "EE955ABB3C2FA719",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "1727595534",
+        "messageHash": "C26B3BA540A0A7A7",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "6856279507",
+        "messageHash": "5D3FBF3EC9EDA79E",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "9903278410",
+        "messageHash": "30C5F8B248F33D7D",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "2015505417",
+        "messageHash": "EAE5DA3B27FA219B",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "7541627351",
+        "messageHash": "6B79704B142908C4",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "1762332152",
+        "messageHash": "F853E59EDFEE9C29",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "6524007715",
+        "messageHash": "16AFD5EFAB6F528E",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "6209425024",
+        "messageHash": "9591CAB290777CEE",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "8661506767",
+        "messageHash": "C01C26A7F58193A3",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "2742401185",
+        "messageHash": "CB4A23B34B787F44",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "5595829701",
+        "messageHash": "40270CF15D9EAD81",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "3299082289",
+        "messageHash": "000983D77496DC5D",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "5832793466",
+        "messageHash": "7D6C3A4B43669EE8",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "8975859394",
+        "messageHash": "47BDA6F860D56957",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "8880505944",
+        "messageHash": "BA42DAB205ECF217",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "4070192640",
+        "messageHash": "3430F657DA9A22D2",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "5617927310",
+        "messageHash": "E63E1CEC39C2D74E",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "8040258511",
+        "messageHash": "F575E41E38350C14",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "7975067346",
+        "messageHash": "047B42C8AEC97D1D",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "1151212557",
+        "messageHash": "E078FEEFE79C1EBE",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "7557660992",
+        "messageHash": "3A0EA70352D853EF",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 66,
+        "stored": false,
+        "recipient": "+27649572688",
+        "messageID": "9645188440",
+        "messageHash": "73CDBDF92AC937EE",
+        "sent": true
+    },
+    {
+        "messageText": "I love you",
+        "disregarded": true,
+        "numMessagesSent": 67,
+        "stored": false,
+        "recipient": "+27649572688",
+        "messageID": "6886423740",
+        "messageHash": "3FE919DC520558B7",
+        "sent": false
+    },
+    {
+        "messageText": "Did you get the cake?",
+        "disregarded": false,
+        "numMessagesSent": 1,
+        "stored": false,
+        "recipient": "+27834557896",
+        "messageID": "3585004098",
+        "messageHash": "110005B9D025D522",
+        "sent": true
+    },
+    {
+        "messageText": "Where are you? You are late! I have asked you to be on time.",
+        "disregarded": false,
+        "numMessagesSent": 2,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "2515456044",
+        "messageHash": "C8DDCFFC5CE48B85",
+        "sent": false
+    },
+    {
+        "messageText": "Yohoooo, I am at your gate.",
+        "disregarded": true,
+        "numMessagesSent": 3,
+        "stored": false,
+        "recipient": "+27834484567",
+        "messageID": "6120505270",
+        "messageHash": "CCD7DAE8C8F5F266",
+        "sent": false
+    },
+    {
+        "messageText": "It is dinner time!",
+        "disregarded": false,
+        "numMessagesSent": 4,
+        "stored": false,
+        "recipient": "0838884567",
+        "messageID": "3869449106",
+        "messageHash": "B75336A981415896",
+        "sent": true
+    },
+    {
+        "messageText": "Ok, I am leaving without you.",
+        "disregarded": false,
+        "numMessagesSent": 5,
+        "stored": true,
+        "recipient": "+27838884567",
+        "messageID": "8894551661",
+        "messageHash": "ACB99237E1C25678",
+        "sent": false
+    }
+]
